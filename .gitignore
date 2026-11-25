@@ -1,0 +1,7 @@
+kit/
+out/
+out2/
+*.tar.gz
+*.zip
+compose.py
+media-generation-*
